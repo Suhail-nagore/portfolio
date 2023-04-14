@@ -560,6 +560,10 @@ section {
     transform: scale(1);
 }
 
+#fitcon {
+    object-fit: contain;
+}
+
 .blogs {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
