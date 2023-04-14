@@ -737,6 +737,20 @@ section {
     justify-content: flex-start;
 }
 
+.sendbtn {
+    display: flex;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: inherit;
+    border-radius: 30px;
+    background-color: #191d2b;
+}
+
+.sendbtn:hover {
+    cursor: pointer;
+}
+
 
 /*Independed components*/
 
